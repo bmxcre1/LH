@@ -13,7 +13,7 @@
 
 >The products longevity is completely reliant on how far the API it uses is maintained
 
-## UPDATES
+## INFORMATION
 
 > [!NOTE]  
 > Last updated for version-6552be68b05d41a5
