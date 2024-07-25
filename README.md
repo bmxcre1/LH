@@ -1,17 +1,3 @@
-## Warnings and Notices
-
-<div style="border: 1px solid red; padding: 10px; background-color: #ffe6e6; color: red; border-radius: 5px;">
-    <strong>Legal Disclaimer:</strong> This application is intended for educational and development purposes only. Unauthorized use of this software to exploit or manipulate other systems is prohibited and may be illegal.
-</div>
-
-<div style="border: 1px solid red; padding: 10px; background-color: #ffe6e6; color: red; border-radius: 5px; margin-top: 10px;">
-    <strong>Usage Warning:</strong> Scripts can be harmful if sourced from untrusted locations. Always review scripts carefully before executing them.
-</div>
-
-<div style="border: 1px solid red; padding: 10px; background-color: #ffe6e6; color: red; border-radius: 5px; margin-top: 10px;">
-    <strong>Security Advisory:</strong> Ensure your antivirus software is up-to-date and active while using the application, as scripts can sometimes trigger false positives or real security concerns.
-</div>
-
-<div style="border: 1px solid red; padding: 10px; background-color: #ffe6e6; color: red; border-radius: 5px; margin-top: 10px;">
-    <strong>Liability Warning:</strong> The developers are not responsible for any damages or data loss resulting from the use of this software. Use at your own risk.
+## OFFICAL REPOSITORY FOR LEGO HACKS
+<div class="markdown-alert markdown-alert-warning" dir="auto"><p class="markdown-alert-title" dir="auto"><svg class="octicon octicon-alert mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg>Warning</p><p dir="auto">We have not had the opportunity to finalize development, and users should proceed with caution.</p>
 </div>
