@@ -4,7 +4,7 @@
 > Use the Launcher executable to download the files for this project instead of downloading the source to ensure they are setup correctly.
 
 > [!CAUTION]
-> **Using this executor will most likely have you placed in the next roblox banwave as it is probably detected. Use an alt account to avoid getting your main banned.**
+> Using this executor will **most likely** have you enrolled in the next roblox banwave as it is **probably** detected. Use an alt account to avoid getting your main banned.
 
 ## INFORMATION
 
