@@ -15,5 +15,5 @@
 
 ## UPDATES
 
-> [!INFORMATION]  
+> [!INFO]  
 > Last updated for version-6552be68b05d41a5
