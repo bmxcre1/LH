@@ -17,3 +17,5 @@
 
 > [!IMPORTANT]
 > If the files for the executor keep getting deleted, add the 'Lego Hacks' folder as an exclusion to your antivirus.
+>
+> This exploit only officialy supports Bloxstrap. You can download it from (here)[https://github.com/pizzaboxer/bloxstrap/tree/main]
