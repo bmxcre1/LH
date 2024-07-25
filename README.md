@@ -14,3 +14,6 @@
 >When running the executable you may be prompted with a screen saying that the file is dangerous. This is because the application isn't signed.
 > 
 >The products longevity is completely reliant on how far the API it uses is maintained
+
+> [!IMPORTANT]
+> If the files for the executor keep getting deleted, add the 'Lego Hacks' folder as an exclusion to your antivirus.
