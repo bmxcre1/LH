@@ -9,7 +9,7 @@
 ## INFORMATION
 
 > [!NOTE]  
-> Last updated for version-6552be68b05d41a5
+> **Last updated for version-6552be68b05d41a5**
 > 
 >When running the executable you may be prompted with a screen saying that the file is dangerous. This is because the application isn't signed.
 > 
