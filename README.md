@@ -10,3 +10,5 @@
 >This is **NOT** a virus. It uses [ccapi](https://github.com/s-y-n-q/ccapi/releases/tag/2.3.0) which includes different files which may be flagged as malicious due to their intended nature of interacting with another program
 
 >When running the executable you may be prompted with a screen saying that the file is dangerous. This is because the application isn't signed.
+
+>The products longevity is completely reliant on how far the API it uses is maintained
